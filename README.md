@@ -19,7 +19,7 @@ Template repository for creating and deploying a Power Apps Canvas app through P
 - Permission to import solutions and publish customizations.
 - Required connectors/connection references available in target environment.
 
-## Quick Start (Colleague Flow)
+## Quick Start
 
 1. Clone this repository.
 2. Update `client-app-brief.md` with project requirements.
