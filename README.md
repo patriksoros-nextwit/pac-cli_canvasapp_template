@@ -13,6 +13,7 @@ Template repository for creating and deploying a Power Apps Canvas app through P
 
 ## Prerequisites
 
+- Github Copilot in VS Code
 - Power Platform CLI installed (`pac --version`).
 - Access to target environment(s).
 - Permission to import solutions and publish customizations.
